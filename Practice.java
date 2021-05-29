@@ -5,7 +5,7 @@ import java.util.ArrayList;
 /**
  * this class generate an account for the client
  *
- * @author ahmed
+ * @author salma
  * @version 1.0
  */
 class Account {
